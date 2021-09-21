@@ -1,3 +1,8 @@
 hi nikhil
 hi sandeep
+<<<<<<< HEAD
 had your lunch?
+=======
+how are you?
+
+>>>>>>> 492ff24f6cad2491ce0300f082a2fe9245e598e0
